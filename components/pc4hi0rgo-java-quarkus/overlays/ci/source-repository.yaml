@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: pc4hi0rgo-java-quarkus-repository
+spec:
+  url: https://github.com/rhtap-rhdh-qe/pc4hi0rgo-java-quarkus
